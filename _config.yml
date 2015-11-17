@@ -1,0 +1,23 @@
+name: Seatronic
+favicon: null
+layout_spectrum: 0.0028233875054866076
+typography_spectrum: 0.22814675280824304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8356264210306108
+  lightness: 0.40487193572334945
+  saturation: 0.31923912302590907
+  rhythmicContrast: 0.6487632996868342
+purpose: []
