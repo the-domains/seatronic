@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Seatronic]]></title>
-        <description><![CDATA[Seatronic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Seatronic - Mini Blog]]></title>
+        <description><![CDATA[Seatronic - Mini Blog]]></description>
+        <link>https://thegrid.ai/seatronic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 17:39:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 17:47:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seatronic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seatronic au Salon Nautic de Paris 2015]]></title>
             <description><![CDATA[<article><h1>Seatronic au Salon Nautic de Paris 2015</h1><p>Salon Nautic Paris 2015</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52274064-93cc-4e70-8d0c-d614c4e08f0a.jpg"></article>]]></description>
-            <link>undefinedseatronic-au-salon-nautic-de-paris-2015/index.html</link>
+            <link>https://thegrid.ai/seatronic/seatronic-au-salon-nautic-de-paris-2015/index.html</link>
             <guid isPermaLink="false">f2701a09-1416-4fa9-a0cc-1aac6e6145e4</guid>
-            <pubDate>Wed, 18 Nov 2015 17:38:37 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2015 17:45:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
