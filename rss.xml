@@ -4,7 +4,7 @@
         <description><![CDATA[Seatronic - Mini Blog]]></description>
         <link>https://thegrid.ai/seatronic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 17:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 18:00:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seatronic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seatronic au Salon Nautic de Paris 2015]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/seatronic/seatronic-au-salon-nautic-de-paris-2015/index.html</link>
             <guid isPermaLink="false">f2701a09-1416-4fa9-a0cc-1aac6e6145e4</guid>
             <pubDate>Wed, 18 Nov 2015 17:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typhon Pro Pêche 2 et Typhon 2]]></title>
+            <description><![CDATA[<article><h1>Typhon Pro Pêche 2 et Typhon 2</h1><p>Typhon Pro Pêche 2</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c28eb9e4-2989-4cc7-a11a-97c6aa55f28c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/seatronic/7ec5ee6a-7f2c-413a-aa53-3f575e3a6e00/index.html</link>
+            <guid isPermaLink="false">7ec5ee6a-7f2c-413a-aa53-3f575e3a6e00</guid>
+            <pubDate>Wed, 18 Nov 2015 18:00:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
